@@ -1,1 +1,3 @@
-#CALCULATOR#
+# Calculator
+
+Calculator develop in Javascript
